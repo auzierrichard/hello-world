@@ -1,2 +1,3 @@
 # hello-world
-first project
+
+hi i wanna kill myself
